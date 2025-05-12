@@ -17,7 +17,7 @@ when getting maltiple values by vertical lines like
 we can use this way
 values = []
 for _ in range(n):
-    values.append(int(input))
+    values.append(int(input()))
 
 append means adding new values
 
